@@ -8,7 +8,7 @@ type Props = {
 const Home = ({ setIsLoggedIn, setPage }: Props) => {
   return (
     <div className="container">
-      <h1 className="title">Homepage</h1>
+      <h1 className="title">Welcome to the Family!</h1>
 
       <button
         className="button"
